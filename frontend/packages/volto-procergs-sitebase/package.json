@@ -27,7 +27,6 @@
     "release-alpha": "release-it --preRelease=alpha"
   },
   "dependencies": {
-    "@plone-collective/volto-authomatic": "^2.0.1"
   },
   "peerDependencies": {
     "react": "18.2.0",
