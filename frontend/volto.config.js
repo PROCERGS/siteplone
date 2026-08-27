@@ -1,7 +1,9 @@
 const addons = [
-  'volto-procergs-sitebase'
+  'volto-procergs-sitebase',
+  '@kitconcept/volto-button-block',
+  'procergs-tema'
 ];
-const theme = '';
+const theme = 'procergs-tema';
 
 module.exports = {
   addons,

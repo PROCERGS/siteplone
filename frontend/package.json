@@ -33,8 +33,10 @@
     "storybook-build": "VOLTOCONFIG=$(pwd)/volto.config.js pnpm --filter @plone/volto build-storybook -c $(pwd)/.storybook"
   },
   "dependencies": {
-    "@plone/volto": "workspace:*",
+    "@kitconcept/volto-button-block": "5.0.0-alpha.2",
     "@plone/registry": "workspace:*",
+    "@plone/volto": "workspace:*",
+    "procergs-tema": "workspace:*",
     "volto-procergs-sitebase": "workspace:*"
   },
   "devDependencies": {
