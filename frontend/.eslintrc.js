@@ -32,6 +32,7 @@ module.exports = {
             'volto-procergs-sitebase',
             './packages/volto-procergs-sitebase/src',
           ],
+          ['procergs-tema', './packages/procergs-tema/src'],
           ...addonAliases,
         ],
         extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
