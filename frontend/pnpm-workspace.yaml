@@ -2,3 +2,5 @@ packages:
   # all packages in direct subdirs of packages/
   - 'core/packages/*'
   - 'packages/volto-procergs-sitebase'
+  - 'packages/procergs-tema'
+  - 'packages/react-govrs-ds'
