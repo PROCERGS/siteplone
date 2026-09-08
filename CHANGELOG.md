@@ -1,7 +1,10 @@
 # Changes
 
+## 1.3.1 (2026-09-08)
+### Fixed
+ - Atualiza versões de ``plone.app.portlets`` para 6.0.4 e ``plone.app.event`` para 5.2.4 no ``mx.ini``.
 
- ## 1.3.0 (2026-08-19)
+## 1.3.0 (2026-08-19)
 
 ### Added
 - Split `install` from a new `prepare` step (`make prepare` / `backend-prepare` / `frontend-prepare`) so site-specific customization (packages, addons, theme, mrs-developer entries, pnpm workspace) is decoupled from installation. **Workflow
